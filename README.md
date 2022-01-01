@@ -2,7 +2,7 @@
 - #### 📫 How to reach me:
   - website: [ketlox.ru](http://ketlox.ru)
   - email: ketlox.ru@gmail.com
-  - vk.com: [click here](https://vk.com)
+  - vk.com: [click here](https://vk.com/ketlox)
 #
 <!--
 **Ketlox/Ketlox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
